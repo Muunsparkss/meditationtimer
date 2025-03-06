@@ -1,7 +1,7 @@
 
 # Meditation Timer
 
-![Meditation Timer Icon]([path/to/icon.png](https://raw.githubusercontent.com/Muunsparkss/meditationtimer/refs/heads/main/timer.ico))
+![Meditation Timer Icon]([timer.ico])
 
 Meditation Timer is a simple desktop application built with Electron that allows users to set a meditation timer. Once the timer runs out, the application will shut down the PC. This project is designed to help users manage their meditation sessions effectively.
 
